@@ -8,6 +8,6 @@ The OSSU curriculum is a complete education in computer science using online mat
 
 ## About me
 
-I'm a self-taught programmer with 3 years of experience working professionally as a software developer. Although I did take a couple of semesters of computer science in the university, I never completed my degree due to personal reasons. Being a programmer has been a dream of mine since I was a kid, and as I've grown older, having a solid foundation in computer science has become increasingly important to my career. I'm using this curriculum as to continue my education and to fulfill my dream of becoming a computer scientist.
+I'm a self-taught programmer with over 7 years of experience combined between personal, educational and professional projects. Although I did take a couple of semesters of computer science in the university, I never completed my degree due to personal reasons. Being a programmer has been a dream of mine since I was a kid, and as I've grown older, having a solid foundation in computer science has become increasingly important to my career. I'm using this curriculum as to continue my education and to fulfill my dream of becoming a computer scientist.
 
 I'm currently working as a full-stack developer, and I'm looking to specialize in major fields of computer science. I'm also interested in the intersection of computer science and other fields, such as physics and robotics. I love programming as a whole, but I'm keenly interested in challenging fields that require a deep understanding of computer science.
