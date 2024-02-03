@@ -1,0 +1,3 @@
+[submodule "projects/advanced-computer-vision"]
+	path = projects/advanced-computer-vision
+	url = git@github.com:JesusJimenezG/advanced-computer-vision.git
